@@ -1,0 +1,2 @@
+En los diagramas de la segunda entrega, las modificaciones respecto de la primera entrega se encuentran marcadas en verde.
+El prototipo final es el llamado "Prototipo_AltaFidelidad_Figma.fig", el cual se encuentra en al carpeta de prototipos de la segunda entrega.
